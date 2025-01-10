@@ -1,11 +1,11 @@
 # Sackosoft
 
-Welcome, engineer, to the forge of robust software craftsmanship.
+We build the columns for your next project to stand on.
 
 ## Our Purpose
 
-We craft the magical platorms that enable developers to build powerful, reliable systems while
-focusing purely on their domain logic. Our creations handle the arcane complexities of infrastructure,
+We hope to craft the magical platorms that enable developers to build powerful, reliable systems while
+focusing purely on their own domains. Our creations handle the arcane complexities of infrastructure,
 persistence, and reliability; so you don't have to.
 
 ## The Ancient Arts

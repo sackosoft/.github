@@ -5,22 +5,24 @@ We build the columns for your next project to stand on.
 ## Our Purpose
 
 We hope to craft the magical platorms that enable developers to build powerful, reliable systems while
-focusing purely on their own domains. Our creations handle the arcane complexities of infrastructure,
+focusing purely on their problem domains. Our creations help handle the arcane complexities of infrastructure,
 persistence, and reliability; so you don't have to.
 
 ## The Ancient Arts
 
 *"Software should be elegant in its simplicity, beautiful in its utility, and excellent in its execution."*
 
-Sackosoft strives to follows the teachings of ancient sages and modern masters. The sorcery our code
-seeks to promote magics that:
+Sackosoft strives to follow the wistom of ancient sages and modern masters alike. Our coded sorcery seeks
+to promote the Principles of Responsible Magics
 
-- Favor unsurprising incantations,
-- Favor clear paths over clever tricks,
-- Conjute explicit instead of implicit energies,
-- Leverage static tying and compile time correctness over unstable dynamic spells,
-- Built from composable and reusable pieces,
-- And, above all else, sustainable excellence over temporary advantage.
+## The Principles of Responsible Magics (PORM)
+
+- Favor unsurprising incantations over clever tricks.
+- Conjure explicit instead of implicit energies.
+- Leverage static and strongly typed spells where it *really matters* and benefit from unstable spells where it doesn't.
+- Favor composable and reusable illusions.
+- Magic is for the benefit of our kind and ought to be cast only for the enrichment of our world.
+- Prioritize sustainable excellence over temporary advantage.
 
 Each creation seeks to manifests these principles through carefully considered APIs, thorough documentation,
 and robust implementations forged in systems languages.

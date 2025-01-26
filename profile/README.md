@@ -13,9 +13,9 @@ persistence, and reliability; so you don't have to.
 *"Software should be elegant in its simplicity, beautiful in its utility, and excellent in its execution."*
 
 Sackosoft strives to follow the wistom of ancient sages and modern masters alike. Our coded sorcery seeks
-to promote the Principles of Responsible Magics
+to promote the [Principles of Responsible Conjurations](#the-principles-of-responsible-conjurations-porc)
 
-## The Principles of Responsible Magics (PORM)
+## The Principles of Responsible Conjurations (PORC)
 
 - Favor unsurprising incantations over clever tricks.
 - Conjure explicit instead of implicit energies.

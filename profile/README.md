@@ -10,7 +10,7 @@ persistence, and reliability; so you don't have to.
 
 ## The Ancient Arts
 
-*"Software should be elegant in its simplicity, beautiful in its utility, and excellent in its execution."*
+*"Software should be beautiful in its simplicity, elegant in its arrangement and excellent in its utility."*
 
 Sackosoft strives to follow the wistom of ancient sages and modern masters alike. Our coded sorcery seeks
 to promote the [Principles of Responsible Conjurations](#the-principles-of-responsible-conjurations-porc)
